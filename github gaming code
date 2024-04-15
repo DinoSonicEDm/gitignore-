@@ -1,0 +1,64 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lib
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Temporary files
+*.swp
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.db
+*.db.lock
+*.log
+*.tlog/
+*.idb
+*.ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.suo
+*.sdf
+*.opendb
+*.sln.docstates
+
+# Build files
+build/
+bin/
+obj/
+GeneratedFiles/
+
+# Dependency directories
+Dependencies/
+
+# Game-specific files and directories
+SaveData/
+Logs/
